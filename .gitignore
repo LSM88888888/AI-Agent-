@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# 会话数据（JSON 持久化）
+sessions/
+
+# 本地知识库缓存
+knowledge_base.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# 环境变量
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
